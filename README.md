@@ -1,4 +1,27 @@
-This is a simple GraphQL project
+# GraphQL Server Example
 
-# How to started
-* Run npm i and npm dev or start
+This example shows A simple GraphQl project
+
+## Getting started
+
+### 1. Download example and install dependencies
+
+Download this example:
+
+```
+npm install
+```
+
+### 2. Start the GraphQL server
+
+Launch your GraphQL server with this command:
+
+```
+npm run dev
+```
+
+or 
+
+```
+npm run start
+```
